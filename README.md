@@ -2,7 +2,7 @@
 
 A full-stack **MERN (MongoDB, Express.js, React.js, Node.js)** application that allows users to search, book, and manage hotel reservations with secure payments and image management.  
 
-Preview : https://quick-stay-oe3g.vercel.app/
+Preview : <a href="https://quick-stay-oe3g.vercel.app/"> QuickStay</a>
 ---
 
 ## 🚀 Features  
